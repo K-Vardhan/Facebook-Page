@@ -6,10 +6,16 @@
 ## Installation
 ###### Clone my repo
 
-'''
+```
+git clone ("https://github.com/K-Vardhan/Facebook-Page.git");
+```
+###### Use the package manager npm
 
+```
+npm install
+npm install json-server
+```
 
-'''
 
 
 
